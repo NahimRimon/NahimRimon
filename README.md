@@ -3,7 +3,7 @@
 ## I'm a developer at beginner stage!
 - 🌱 I’m currently learning everything about coding world.
 - &copy;2020 Goals: Improve My Coding Knowledge.
-- ⚡ Fun fact: I love create things and watch movies.
+- ⚡ Fun fact: I love to create things,watch movies and making new friends.
 
 ### Connect with me:
 
