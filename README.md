@@ -10,6 +10,7 @@
 [<img align="left" alt="NahimRimon | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Nahim Rimon | facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="rimonahim | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nahim Rimon | linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
 ### Languages and Tools:
@@ -38,3 +39,4 @@
 [twitter]: https://twitter.com/NahimRimon
 [facebook]: https://www.facebook.com/RimoNahiM
 [instagram]: https://www.instagram.com/rimonahim
+[linkedin]: https://www.linkedin.com/in/nahim-rimon/
